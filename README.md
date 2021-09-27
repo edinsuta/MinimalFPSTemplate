@@ -1,5 +1,5 @@
 # MinimalFPSTemplate
-A modification of the standard Unreal Engine FPS template which removes all unnecessary bloat assets/code/files (VR support, meshes, animations etc.)
+A modification of the standard Unreal Engine FPS template which removes all unnecessary bloat assets/code/files (VR support, meshes, animations etc.). It should support UE 4.27+.
 
 ## Installation
 Copy folder "TP_FirstPersonBP_Minimal" to "[YOUR_UE_ENGINE_PATH]\Templates". For example, the default template path for a UE 4.27 would be "C:\Program Files\Epic Games\UE_4.27\Templates".
